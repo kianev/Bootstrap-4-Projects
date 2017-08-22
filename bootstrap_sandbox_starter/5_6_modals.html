@@ -79,19 +79,66 @@
   </header>
 
   <div class="container">
-    <!--########################START HERE#########################-->
 
     <!-- MODAL TRIGGER -->
-
+    <button class="btn btn-primary" data-toggle="modal" data-target="#myModal">Launch Modal</button>
 
     <!-- MODAL -->
+    <div class="modal" id="myModal">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title" id="myModalLabel">
+                        Modal Title
+                    </h5>
+                    <button class="close" data-dismiss="modal">&times;</button>
+                </div>
+                <div class="modal-body">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla eu turpis feugiat, consectetur massa in,
+                    pretium dolor. Vestibulum ac nisl elementum, rutrum sem non, fringilla magna. Nunc ultrices sollicitudin
+                    arcu, ac eleifend erat gravida non. Suspendisse potenti. Donec ac ex sed magna pellentesque dictum vel a arcu.
+                    Vivamus id justo.
+                </div>
+                <div class="modal-footer">
+                    <button class="btn btn-secondary" data-dismiss="modal">Close</button>
+                </div>
+            </div>
+        </div>
+    </div>
 
-
-
+      <br><br>
     <!-- LOGIN MODAL TRIGGER -->
-
+      <button class="btn btn-success" data-toggle="modal" data-target="#loginModal">Login</button>
 
     <!-- LOGIN MODAL -->
+      <div class="modal" id="loginModal">
+          <div class="modal-dialog">
+              <div class="modal-content">
+                  <div class="modal-header">
+                      <h5 class="modal-title" id="loginModalLabel">
+                         User Login
+                      </h5>
+                      <button class="close" data-dismiss="modal">&times;</button>
+                  </div>
+                  <div class="modal-body">
+                      <form>
+                          <div class="form-group">
+                              <label>Username</label>
+                              <input type="text" placeholder="Username" class="form-control">
+                              <label>Password</label>
+                              <input type="password" placeholder="password" class="form-control">
+                          </div>
+                      </form>
+                  </div>
+                  <div class="modal-footer">
+                      <button class="btn btn-secondary" data-dismiss="modal">Close</button>
+                      <button class="btn btn-primary">Login</button>
+                  </div>
+              </div>
+          </div>
+      </div>
+
+
   </div>
 
   <div style="margin-top:500px;"></div>
