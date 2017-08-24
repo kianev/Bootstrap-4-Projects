@@ -1,7 +1,7 @@
 {
-  "name": "Landing Page Theme",
+  "name": "landing-page",
   "version": "1.0.0",
-  "description": "Landing Page",
+  "description": "Bootstrap 4 Workflow",
   "main": "index.js",
   "scripts": {
     "start": "gulp"
@@ -17,7 +17,6 @@
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0",
     "jquery": "^3.2.1",
-    "popper.js": "^1.12.3",
     "tether": "^1.4.0"
   }
 }
