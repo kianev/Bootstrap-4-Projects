@@ -267,7 +267,7 @@
       <workItem from="1503637368900" duration="293000" />
       <workItem from="1503639349720" duration="1000" />
       <workItem from="1503639411934" duration="145000" />
-      <workItem from="1503672936133" duration="17000" />
+      <workItem from="1503672936133" duration="26000" />
     </task>
     <task id="LOCAL-00001" summary="Landing Page Template">
       <created>1503561706585</created>
@@ -297,11 +297,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503672950229</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Landing Page Template">
+      <created>1503672959927</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1503672959927</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20309000" />
+    <option name="totallyTimeSpent" value="20318000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
