@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d7f618d-b529-4bca-996a-0086cde86c9f" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Book Theme/.idea/vcs.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../Blog Admin/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../Book Theme/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../Book Theme/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -21,11 +23,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="268">
-              <caret line="19" column="17" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="19" selection-end-column="17" />
+            <state relative-caret-position="253">
+              <caret line="285" column="0" lean-forward="false" selection-start-line="285" selection-start-column="0" selection-end-line="315" selection-end-column="6" />
               <folding>
-                <element signature="e#12727#12733#0" expanded="true" />
-                <element signature="e#13348#13355#1" expanded="true" />
+                <element signature="e#12725#12731#0" expanded="true" />
+                <element signature="e#13346#13353#1" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -63,8 +65,8 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/css/styles.css" />
         <option value="$PROJECT_DIR$/src/scss/styles.scss" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
   </component>
@@ -103,7 +105,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -150,7 +152,7 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -264,6 +266,10 @@
       <workItem from="1503561912338" duration="162000" />
       <workItem from="1503574932926" duration="605000" />
       <workItem from="1503576611887" duration="209000" />
+      <workItem from="1503592097859" duration="62000" />
+      <workItem from="1503637368900" duration="293000" />
+      <workItem from="1503639349720" duration="1000" />
+      <workItem from="1503639411934" duration="145000" />
     </task>
     <task id="LOCAL-00001" summary="Landing Page Template">
       <created>1503561706585</created>
@@ -279,11 +285,18 @@
       <option name="project" value="LOCAL" />
       <updated>1503561994860</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Landing Page Template">
+      <created>1503592128311</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1503592128311</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19791000" />
+    <option name="totallyTimeSpent" value="20292000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -327,8 +340,84 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12727#12733#0" expanded="true" />
-            <element signature="e#13348#13355#1" expanded="true" />
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="74" column="8" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="74" column="8" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="74" column="8" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/scss/styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1702">
+          <caret line="74" column="8" lean-forward="false" selection-start-line="74" selection-start-column="8" selection-end-line="74" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -346,8 +435,8 @@
         <state relative-caret-position="1173">
           <caret line="51" column="58" lean-forward="false" selection-start-line="51" selection-start-column="58" selection-end-line="51" selection-end-column="58" />
           <folding>
-            <element signature="e#12727#12733#0" expanded="true" />
-            <element signature="e#13348#13355#1" expanded="true" />
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -373,8 +462,8 @@
         <state relative-caret-position="1173">
           <caret line="51" column="58" lean-forward="false" selection-start-line="51" selection-start-column="58" selection-end-line="51" selection-end-column="58" />
           <folding>
-            <element signature="e#12727#12733#0" expanded="true" />
-            <element signature="e#13348#13355#1" expanded="true" />
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -400,8 +489,8 @@
         <state relative-caret-position="391">
           <caret line="17" column="87" lean-forward="false" selection-start-line="17" selection-start-column="87" selection-end-line="17" selection-end-column="87" />
           <folding>
-            <element signature="e#12727#12733#0" expanded="true" />
-            <element signature="e#13348#13355#1" expanded="true" />
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -426,8 +515,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12727#12733#0" expanded="true" />
-            <element signature="e#13348#13355#1" expanded="true" />
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -445,8 +534,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12727#12733#0" expanded="true" />
-            <element signature="e#13348#13355#1" expanded="true" />
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -464,8 +553,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12727#12733#0" expanded="true" />
-            <element signature="e#13348#13355#1" expanded="true" />
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -483,8 +572,8 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12727#12733#0" expanded="true" />
-            <element signature="e#13348#13355#1" expanded="true" />
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -537,11 +626,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="268">
-          <caret line="19" column="17" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="253">
+          <caret line="285" column="0" lean-forward="false" selection-start-line="285" selection-start-column="0" selection-end-line="315" selection-end-column="6" />
           <folding>
-            <element signature="e#12727#12733#0" expanded="true" />
-            <element signature="e#13348#13355#1" expanded="true" />
+            <element signature="e#12725#12731#0" expanded="true" />
+            <element signature="e#13346#13353#1" expanded="true" />
           </folding>
         </state>
       </provider>
